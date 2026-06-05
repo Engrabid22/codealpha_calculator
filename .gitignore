@@ -1,0 +1,16 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Build / deps (not used here, but safe)
+node_modules/
+dist/
+coverage/
+
+# Env
+.env
+.env.*
